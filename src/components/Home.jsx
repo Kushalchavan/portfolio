@@ -22,7 +22,7 @@ const Home = () => {
 
         <div className="buttons">
           <a
-            href="/kushal chavan resume.pdf"
+            href="/Kushal chavan resume25.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
